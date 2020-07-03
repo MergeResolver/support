@@ -2,7 +2,7 @@
 
 This is the place to seek support for [MergeResolver](https://github.com/apps/mergeresolver).
 
-MergeResolver [automates resolving merge conflicts](https://blogs.grammatech.com/mergeresolver-automatic-merge-conflict-resolution).
+MergeResolver [automates resolving merge conflicts](https://mergeresolver.github.io/).
 
 If you have a problem with MergeResolver, or an idea for improvement, open an issue here.
 
